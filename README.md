@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Alice Masengesho
 
-<!--
-**alicem-commits/alicem-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BBICT Graduate** — Bachelor's Degree in Business Information and Communication Technology
 
-Here are some ideas to get you started:
+💻 **Web Developer | Information Systems Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a graduate in **Business Information and Communication Technology (BBICT)** with an interest in web development, information systems, databases, and practical ICT solutions.
+
+I enjoy building systems that use technology to solve real-world business problems and improve efficiency.
+
+## 🛠️ Technical Skills
+
+* Python
+* Flask
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* MySQL
+* Git & GitHub
+* Information Systems
+* Database Management
+
+## 🎯 Areas of Interest
+
+* Web Development
+* Information Systems
+* Database Management
+* Business Technology
+* AI-Based Solutions
+* Software Development
+
+## 🌱 Currently Improving
+
+* Web application development
+* Python & Flask
+* Database development
+* Software project development
+* Git & GitHub
+
+## 📫 Connect With Me
+
+📍 Rwanda
+
+💻 GitHub: @alicem-ict
